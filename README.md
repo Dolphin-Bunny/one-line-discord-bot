@@ -11,5 +11,5 @@ This is what the bot does:<br>
 `.help`: displays a help message<br>
 `.info`: displays information about this bot<br>
 
-There is no invite link for the bot because I don't want to waste resources on it
+There is no invite link for the bot because I don't want to waste resources on it<br>
 if you want moderation features, there are many bots that have more features and are actively developed and maintained
